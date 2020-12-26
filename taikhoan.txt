@@ -1,0 +1,41 @@
+
+Class DataProVider Sever Hiện Tại là BTKT.
+--tài khoản admin--
+username: admin
+password: 1
+--tài khoản giáo viên--
+username: KimTham
+password: 1
+
+username: MinhTai
+password: 1
+
+username: MinhTuan
+password: 1
+
+username: NgocBich
+password: 1
+
+username: NgocDiep
+password: 1
+
+username: NgocNhu
+password: 1
+
+username: QuynhAnh
+password: 1
+
+username: ThiNo
+password: 1
+
+username: TranVu
+password: 1
+
+username: VanPhuc
+password: 1
+
+username: VanToan
+password: 1
+
+username: VanVu
+password: 1
